@@ -1,0 +1,5 @@
+--- Class Performance Summary - 5 Anggerik ---
+Total Students: 2
+Highest Average: 87.50
+Lowest Average: 72.50
+Class Average: 80.00

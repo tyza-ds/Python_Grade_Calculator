@@ -1,0 +1,5 @@
+--- School Performance Summary ---
+Total Students: 4
+Highest Average: 93.50
+Lowest Average: 71.50
+Class Average: 81.25

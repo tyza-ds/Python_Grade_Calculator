@@ -1,0 +1,46 @@
+[
+    {
+        "id": "S0001",
+        "name": "Nur Izzati",
+        "class": "5 Anggerik",
+        "subjects": {
+            "Math": 90.0,
+            "English": 85.0
+        },
+        "average": 87.5,
+        "grade": "A+"
+    },
+    {
+        "id": "S0002",
+        "name": "Izdihar Ij",
+        "class": "4 Anggun",
+        "subjects": {
+            "Math": 88.0,
+            "Science": 99.0
+        },
+        "average": 93.5,
+        "grade": "A+"
+    },
+    {
+        "id": "S0003",
+        "name": "Lily Anne",
+        "class": "5 Anggerik",
+        "subjects": {
+            "Math": 78.0,
+            "Science": 67.0
+        },
+        "average": 72.5,
+        "grade": "B+"
+    },
+    {
+        "id": "S0004",
+        "name": "Alia Nurin",
+        "class": "4 Anggun",
+        "subjects": {
+            "Math": 88.0,
+            "Science": 55.0
+        },
+        "average": 71.5,
+        "grade": "B+"
+    }
+]
